@@ -1,0 +1,1 @@
+ /Users/hoa/Development/projects/mobileapp/appta/.dart_tool/flutter_build/68f0950e41ee3f13670d6fbd647573eb/native_assets.json: 
